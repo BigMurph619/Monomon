@@ -4,8 +4,6 @@
 
 # What is Monomon?
 
-### Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
-
 ### Monomon is the easier means of playing [Murphmon](https://github.com/BigMurph619/Murphmon). Monomon does NOT require the mid game pivot in Safari Zone, Bug Catching Contest, etc. Additionally, Gym Leaders only have 3 additional Pokemon and opponents' held items are removed from much of the game.
 
 # Core Game Rules
