@@ -235,7 +235,7 @@ You must defeat Red after all Kanto Badges have been collected. ALL moves (excep
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
-ALL versions of Monomon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Murphmon.
+ALL versions of Monomon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Monomon.
 
 The Monomon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
